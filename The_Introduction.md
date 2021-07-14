@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sepehrskysh
+- 👀 I’m interested in Molecular Dynamic Simulations and Developing Simulation with Python!!!
+- 🌱 I’m currently learning Machine Learning and Physical Chemistry
+- 💞️ I’m looking to collaborate on Python Projects.
+- 📫 sepehr.sky.sh@gmail.com
